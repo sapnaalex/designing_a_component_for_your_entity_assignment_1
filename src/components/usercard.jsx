@@ -2,9 +2,9 @@
 import React from "react";
 
 const Usercard = () => {
-    const profilePhoto = "https://via.placeholder.com/150"; // Placeholder image
-    const name = "John Doe";
-    const email = "johndoe@example.com";
+    const profilePhoto = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRXxfn1j1vKFy8yJeBGl2AS6Dcah-lKgHofg&s"; // Placeholder image
+    const name = "Sapna Alex";
+    const email = "sapnaalex@example.com";
     const phone = "+1 234 567 890";
     const address = "123 Main Street, Cityville, Country";
 
